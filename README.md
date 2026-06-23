@@ -23,7 +23,6 @@ Axios
 React Router DOM
 React Icons
 Notistack
-Backend
 Node.js
 Express.js
 Mongoose
