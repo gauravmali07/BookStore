@@ -1,4 +1,4 @@
-**Book Store CRUD App (MERN Stack)**
+**Book Store CRUD App (MERN)**
 
 A modern full-stack Book Store Management application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). The application allows users to manage books through complete CRUD operations with a responsive and user-friendly interface.
 
